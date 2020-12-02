@@ -9,7 +9,7 @@ Projeto desenvolvido na aula de Tecnologias para Mobilidade, na Etec Cidade do L
 
 ## 🖥 Preview 
 
-<p align="center">
+<p>
   <img alt="Screen" src="img/tela1.png" width="20%" height="20%">
 </p>
 
